@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-aether",
+  "name": "Aether",
+  "version": "8.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "5 款差异化配色（宣纸·冰川·羊皮·墨色·黑曜）+ 智能侧边栏 + 沉浸写作 + 每日仪表盘",
+  "author": "里予",
+  "authorUrl": "https://github.com/Rojiya/obsidian-aether",
+  "isDesktopOnly": false
+}
